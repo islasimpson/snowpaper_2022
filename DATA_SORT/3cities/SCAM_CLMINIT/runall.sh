@@ -1,0 +1,2 @@
+python outputcesmscam_TREFHT_SNOWD_SNOWDF_001.py
+python outputcesmscam_TREFHT_SNOWD_SNOWDF_002.py
